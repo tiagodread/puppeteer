@@ -2,7 +2,7 @@ let puppeteer = require('puppeteer');
 
 let browser;
 let page;
-let urlBase = 'https://www.geru.com.br/emprestimos';
+let urlBase = 'https://www.google.com.br/';
 
 
 beforeAll(async () => {
